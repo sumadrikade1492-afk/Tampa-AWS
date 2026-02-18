@@ -1,0 +1,54 @@
+{
+  "event_name": "re:Invent re:Cap - Tampa",
+  "event_date": "2026-02-25",
+  "start_time": "17:00",
+  "end_time": "20:00",
+  "timezone": "EST",
+  "location": {
+    "venue_name": "WeWork Building - Downtown Tampa",
+    "address": "501 E Kennedy Blvd Suite Floor 2, Tampa, FL 33602",
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "USA"
+  },
+  "organizer": "Tampa Bay AWS User Group",
+  "description": "Join us for the re:Cap event series. Get a comprehensive summary of key re:Invent 2025 announcements and insights from the keynotes, followed by three deep dive sessions selected from the most popular re:Invent presentations covering Amazon Bedrock, AgentCore, Kiro, and Amazon Quick Suite.",
+  "abstract": "This event provides a recap of AWS re:Invent 2025, highlighting key announcements and offering deeper insights into selected AWS services and innovations including Bedrock, AgentCore, Kiro, and Quick Suite.",
+  "speakers": [
+    {
+      "name": "Trevor Roberts Jr",
+      "role": "Co-organizer / host",
+      "bio": "Co-organizer and host of the Tampa Bay AWS User Group event. A detailed speaker bio is not provided on the Meetup event page."
+    },
+    {
+      "name": "Sam Kasimalla",
+      "role": "Co-organizer / host",
+      "bio": "Co-organizer and host of the Tampa Bay AWS User Group event. A detailed speaker bio is not provided on the Meetup event page."
+    },
+    {
+      "name": "Daniel Killyevo",
+      "role": "Co-organizer / host",
+      "bio": "Co-organizer and host of the Tampa Bay AWS User Group event. A detailed speaker bio is not provided on the Meetup event page."
+    }
+  ],
+  "hosts": [
+    "Trevor Roberts Jr",
+    "Sam Kasimalla",
+    "Daniel Killyevo"
+  ],
+  "additional_info": {
+    "parking": "Paid street parking, 717 lots, or City garages/lots. There is a game that evening at 7:30 PM, so plan accordingly. Street parking or the City's Twigg garage (about a 10 minute walk) are suggested for more economical options.",
+    "instructions": "Use the Kennedy entrance; an organizer will be waiting downstairs to direct you to the 2nd floor."
+  },
+  "event_url": "https://www.meetup.com/tampa-bay-aws/events/313098088/",
+  "registration_url": "https://aws-experience.com/amer/smb/e/9e4df/reinvent-recap---tampa",
+  "tags": [
+    "AWS",
+    "Cloud Computing",
+    "Artificial Intelligence",
+    "Amazon Bedrock",
+    "AgentCore",
+    "Kiro",
+    "Quick Suite"
+  ]
+}
